@@ -1,4 +1,4 @@
-package javaLab;
+package net.cfrost.javaLab;
 
 public class Lab {
 
